@@ -1,0 +1,1 @@
+Este é um compilado de todos os meus projetos utilizando React, vale *destacar* que estes projetos são frutos de um curso realizado na Udemy, portanto não são 100% de minha autoria!!
